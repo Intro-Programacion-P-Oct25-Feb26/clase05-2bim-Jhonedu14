@@ -43,3 +43,9 @@ public class Principal {
     }
     
 }
+/*
+La problematica primero importa de los  demas paquetes para la resolucion del 
+problema mediante las funciones y cada funcion retorna un valor de dicha 
+funcion y esta presentando una solucion con el nombre, el apellido, ciudad, 
+y  al ingresar las 4 notas se calcula el promedio, 
+*/
